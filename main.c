@@ -14,5 +14,6 @@ int main() {
     printf("交换前a = %d\tb = %d\n", a, b);
     switch_sums(&a, &b);
     printf("交换后a = %d\tb = %d\n", a, b);
+    printf("分支切换测试");
     return 0;
 }
