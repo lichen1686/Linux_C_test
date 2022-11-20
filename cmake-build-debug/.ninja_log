@@ -1,3 +1,7 @@
 # ninja log v5
 0	16	1668845951470227290	CMakeFiles/Linux_C_test.dir/main.c.o	afb8c366240747a5
 16	34	1668845951486227253	Linux_C_test	1f3f5bd4ebf61d41
+0	61	1668959394054958026	CMakeFiles/Linux_C_test.dir/main.c.o	afb8c366240747a5
+61	91	1668959394086958526	Linux_C_test	1f3f5bd4ebf61d41
+0	19	1668959414275353633	CMakeFiles/Linux_C_test.dir/main.c.o	afb8c366240747a5
+19	36	1668959414295354099	Linux_C_test	1f3f5bd4ebf61d41
